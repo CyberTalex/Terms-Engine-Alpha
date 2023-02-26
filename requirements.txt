@@ -1,0 +1,7 @@
+ursina
+pygame
+PyOpenGl
+pillow
+pyqt5
+constants
+subprocess
