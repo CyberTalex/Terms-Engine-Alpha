@@ -1,5 +1,5 @@
-## 📜 Owner
-
+## Owner
+- [CyberTalex](https://github.com/CyberTalex)
 
 ## 📜 Requirements
 
